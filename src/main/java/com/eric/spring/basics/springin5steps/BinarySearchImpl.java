@@ -9,10 +9,14 @@ public class BinarySearchImpl {
 	@Autowired
 	SortAlgorithm sortAlgorithm;
 	
-	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
-		super();
-		this.sortAlgorithm = sortAlgorithm;		
-	}
+//	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
+//		super();
+//		this.sortAlgorithm = sortAlgorithm;		
+//	}
+
+//	public void setSortAlgorithm(SortAlgorithm sortAlgorithm) {
+//	this.sortAlgorithm = sortAlgorithm;
+//}
 	
 	public int binarySearch(int[] numbers, int numberToSearch) {
 		
