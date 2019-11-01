@@ -1,4 +1,4 @@
-package com.eric.spring.basics.springin5steps;
+package com.eric.spring.basics.springin5steps.basic;
 
 public interface SortAlgorithm {
 	
